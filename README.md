@@ -4,6 +4,6 @@ pour toute l'application
   - make api sh
       npm i
       npm start
-#pour le front
+# pour le front
   make app sh
   npm i
