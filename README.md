@@ -1,4 +1,9 @@
-# yummy-yams-mt5-project
-Module Frontend - Project Yummy yams
-# yummy-yams-mt5-project
-# yummy-yams-mt5-project
+pour toute l'application 
+  - make start all
+# pour le back
+  - make api sh
+      npm i
+      npm start
+#pour le front
+  make app sh
+  npm i
